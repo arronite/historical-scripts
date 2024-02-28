@@ -463,12 +463,12 @@
           label: "IMG_2986",
         },
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/photo_A4D0643D_83EB_B28C_41D6_90B294096D71_t.jpg",
+          "media/photo_A4D0643D_83EB_B28C_41D6_90B294096D71_t.jpg",
         width: 5718,
         image: {
           levels: [
             {
-              url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/photo_A4D0643D_83EB_B28C_41D6_90B294096D71.JPG",
+              url: "media/photo_A4D0643D_83EB_B28C_41D6_90B294096D71.JPG",
               class: "ImageResourceLevel",
             },
           ],
@@ -1219,7 +1219,7 @@
         hfov: 360,
         id: "panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_t.jpg",
+          "media/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -1228,11 +1228,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_t.jpg",
+              "media/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -1241,7 +1241,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -1250,7 +1250,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -1343,7 +1343,7 @@
         hfov: 360,
         id: "panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_t.jpg",
+          "media/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -1352,11 +1352,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_t.jpg",
+              "media/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -1365,7 +1365,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -1374,7 +1374,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -1462,7 +1462,7 @@
         hfov: 360,
         id: "panorama_98334FE1_87C7_010C_41E0_47108569E0BE",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_t.jpg",
+          "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -1471,11 +1471,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_t.jpg",
+              "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -1484,7 +1484,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -1493,7 +1493,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -1502,7 +1502,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/vr/0.jpg",
+                  url: "media/panorama_98334FE1_87C7_010C_41E0_47108569E0BE_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -1541,7 +1541,7 @@
         hfov: 360,
         id: "panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_t.jpg",
+          "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -1550,11 +1550,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_t.jpg",
+              "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -1563,7 +1563,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -1572,7 +1572,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -1581,7 +1581,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -2152,7 +2152,7 @@
         hfov: 360,
         id: "panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_t.jpg",
+          "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -2161,11 +2161,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_t.jpg",
+              "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -2174,7 +2174,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -2183,7 +2183,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -2192,7 +2192,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -2219,7 +2219,7 @@
         hfov: 360,
         id: "panorama_982C48DC_87DB_0F3B_41D3_404399822EB3",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_t.jpg",
+          "media/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -2228,11 +2228,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_t.jpg",
+              "media/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -2241,7 +2241,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -2250,7 +2250,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C48DC_87DB_0F3B_41D3_404399822EB3_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -3543,7 +3543,7 @@
         hfov: 360,
         id: "panorama_982C5ECC_87D9_0314_41C5_176E997B90D6",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_t.jpg",
+          "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -3552,11 +3552,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_t.jpg",
+              "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -3565,7 +3565,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -3574,7 +3574,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -3583,7 +3583,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C5ECC_87D9_0314_41C5_176E997B90D6_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -4028,7 +4028,7 @@
         hfov: 360,
         id: "panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_t.jpg",
+          "media/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -4037,11 +4037,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_t.jpg",
+              "media/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -4050,7 +4050,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -4059,7 +4059,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -4135,7 +4135,7 @@
         hfov: 360,
         id: "panorama_982FC347_87DB_0115_41D8_E786B7792463",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_t.jpg",
+          "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -4144,11 +4144,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_t.jpg",
+              "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -4157,7 +4157,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -4166,7 +4166,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -4175,7 +4175,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982FC347_87DB_0115_41D8_E786B7792463_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -4202,7 +4202,7 @@
         hfov: 360,
         id: "panorama_982C9314_87DB_0134_41C8_988B955EC956",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C9314_87DB_0134_41C8_988B955EC956_t.jpg",
+          "media/panorama_982C9314_87DB_0134_41C8_988B955EC956_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -4211,11 +4211,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C9314_87DB_0134_41C8_988B955EC956_t.jpg",
+              "media/panorama_982C9314_87DB_0134_41C8_988B955EC956_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -4224,7 +4224,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -4233,7 +4233,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C9314_87DB_0134_41C8_988B955EC956_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -5032,7 +5032,7 @@
         hfov: 360,
         id: "panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_t.jpg",
+          "media/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_t.jpg",
         hfovMin: "150%",
         pitch: -17.26,
         class: "Panorama",
@@ -5041,11 +5041,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_t.jpg",
+              "media/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -5054,7 +5054,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -5063,7 +5063,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -5159,7 +5159,7 @@
         hfov: 360,
         id: "panorama_9832444F_87C7_0715_4149_19814B398E70",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_t.jpg",
+          "media/panorama_9832444F_87C7_0715_4149_19814B398E70_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -5169,11 +5169,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_t.jpg",
+              "media/panorama_9832444F_87C7_0715_4149_19814B398E70_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -5182,7 +5182,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -5191,7 +5191,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -5200,7 +5200,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/vr/0.jpg",
+                  url: "media/panorama_9832444F_87C7_0715_4149_19814B398E70_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -5231,7 +5231,7 @@
         hfov: 360,
         id: "panorama_982CB54F_87DB_0115_41DB_365772BA8BD9",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_t.jpg",
+          "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_t.jpg",
         pitch: 0,
         class: "Panorama",
         cardboardMenu: "this.Menu_996EB67D_8AE1_76E2_41CC_23DB563C8EEB",
@@ -5239,11 +5239,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_t.jpg",
+              "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/0/{row}_{column}.jpg",
                   colCount: 42,
                   class: "TiledImageResourceLevel",
                   width: 21504,
@@ -5252,7 +5252,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/1/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -5261,7 +5261,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -5270,7 +5270,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CB54F_87DB_0115_41DB_365772BA8BD9_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -5809,7 +5809,7 @@
         hfov: 360,
         id: "panorama_982DF94C_87D9_0114_41DA_4312E2159883",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF94C_87D9_0114_41DA_4312E2159883_t.jpg",
+          "media/panorama_982DF94C_87D9_0114_41DA_4312E2159883_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -5818,11 +5818,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF94C_87D9_0114_41DA_4312E2159883_t.jpg",
+              "media/panorama_982DF94C_87D9_0114_41DA_4312E2159883_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -5831,7 +5831,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -5840,7 +5840,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DF94C_87D9_0114_41DA_4312E2159883_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6199,7 +6199,7 @@
         hfov: 360,
         id: "panorama_983325C0_87C7_010C_41D3_BD6305560E6D",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_t.jpg",
+          "media/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -6208,11 +6208,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_t.jpg",
+              "media/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -6221,7 +6221,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -6230,7 +6230,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/vr/0.jpg",
+                  url: "media/panorama_983325C0_87C7_010C_41D3_BD6305560E6D_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6263,7 +6263,7 @@
         hfov: 360,
         id: "panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_t.jpg",
+          "media/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -6272,11 +6272,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_t.jpg",
+              "media/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -6285,7 +6285,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -6294,7 +6294,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6444,7 +6444,7 @@
         hfov: 360,
         id: "panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_t.jpg",
+          "media/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -6453,11 +6453,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_t.jpg",
+              "media/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -6466,7 +6466,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -6475,7 +6475,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6699,7 +6699,7 @@
         hfov: 360,
         id: "panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_t.jpg",
+          "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -6708,11 +6708,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_t.jpg",
+              "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -6721,7 +6721,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6730,7 +6730,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -6739,7 +6739,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6835,7 +6835,7 @@
         hfov: 360,
         id: "panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_t.jpg",
+          "media/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -6844,11 +6844,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_t.jpg",
+              "media/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -6857,7 +6857,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -6866,7 +6866,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -6986,7 +6986,7 @@
         hfov: 360,
         id: "panorama_982DFD71_87D9_010D_41D5_E136E13414A5",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_t.jpg",
+          "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -6995,11 +6995,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_t.jpg",
+              "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -7008,7 +7008,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -7017,7 +7017,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -7026,7 +7026,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DFD71_87D9_010D_41D5_E136E13414A5_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -7415,7 +7415,7 @@
         hfov: 360,
         id: "panorama_9BE0A913_87C7_010C_418F_890DFEF7E756",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_t.jpg",
+          "media/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -7424,11 +7424,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_t.jpg",
+              "media/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -7437,7 +7437,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -7446,7 +7446,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/vr/0.jpg",
+                  url: "media/panorama_9BE0A913_87C7_010C_418F_890DFEF7E756_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -7988,7 +7988,7 @@
         hfov: 360,
         id: "panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_t.jpg",
+          "media/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -7997,11 +7997,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_t.jpg",
+              "media/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -8010,7 +8010,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -8019,7 +8019,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -8208,10 +8208,10 @@
         autoplay: true,
         audio: {
           oggUrl:
-            "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.ogg",
+            "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.ogg",
           class: "AudioResource",
           mp3Url:
-            "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.mp3",
+            "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.mp3",
         },
         class: "MediaAudio",
         id: "audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58",
@@ -8353,7 +8353,7 @@
         hfov: 360,
         id: "panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_t.jpg",
+          "media/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -8362,11 +8362,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_t.jpg",
+              "media/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -8375,7 +8375,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -8384,7 +8384,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -8744,7 +8744,7 @@
         hfov: 360,
         id: "panorama_982EF900_87DB_010B_41D8_11AE2DBF3500",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_t.jpg",
+          "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -8753,11 +8753,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_t.jpg",
+              "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -8766,7 +8766,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -8775,7 +8775,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -8784,7 +8784,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982EF900_87DB_010B_41D8_11AE2DBF3500_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11000,7 +11000,7 @@
         hfov: 360,
         id: "panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_t.jpg",
+          "media/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -11009,11 +11009,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_t.jpg",
+              "media/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -11022,7 +11022,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -11031,7 +11031,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11142,7 +11142,7 @@
         hfov: 360,
         id: "panorama_982CCFDA_87DB_013F_41CB_9425C419FA80",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_t.jpg",
+          "media/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -11151,11 +11151,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_t.jpg",
+              "media/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -11164,7 +11164,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -11173,7 +11173,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CCFDA_87DB_013F_41CB_9425C419FA80_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11393,7 +11393,7 @@
         hfov: 360,
         id: "panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_t.jpg",
+          "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_t.jpg",
         pitch: 0,
         class: "Panorama",
         cardboardMenu: "this.Menu_996EB67D_8AE1_76E2_41CC_23DB563C8EEB",
@@ -11401,11 +11401,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_t.jpg",
+              "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/0/{row}_{column}.jpg",
                   colCount: 60,
                   class: "TiledImageResourceLevel",
                   width: 30720,
@@ -11414,7 +11414,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/1/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -11423,7 +11423,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/2/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11432,7 +11432,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/3/{row}_{column}.jpg",
+                  url: "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/3/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -11441,7 +11441,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11533,7 +11533,7 @@
         hfov: 360,
         id: "panorama_982DF35B_87D9_013C_4169_5523ABF73254",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_t.jpg",
+          "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_t.jpg",
         pitch: 0,
         class: "Panorama",
         cardboardMenu: "this.Menu_996EB67D_8AE1_76E2_41CC_23DB563C8EEB",
@@ -11541,11 +11541,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_t.jpg",
+              "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/0/{row}_{column}.jpg",
                   colCount: 42,
                   class: "TiledImageResourceLevel",
                   width: 21504,
@@ -11554,7 +11554,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/1/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -11563,7 +11563,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -11572,7 +11572,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DF35B_87D9_013C_4169_5523ABF73254_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -11996,7 +11996,7 @@
         hfov: 360,
         id: "panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_t.jpg",
+          "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -12005,11 +12005,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_t.jpg",
+              "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -12018,7 +12018,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -12027,7 +12027,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -12036,7 +12036,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -12546,7 +12546,7 @@
         hfov: 360,
         id: "panorama_982C535B_87D9_013C_41D5_02C256D04D84",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_t.jpg",
+          "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -12555,11 +12555,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_t.jpg",
+              "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/0/{row}_{column}.jpg",
                   colCount: 36,
                   class: "TiledImageResourceLevel",
                   width: 18432,
@@ -12568,7 +12568,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -12577,7 +12577,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -12586,7 +12586,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C535B_87D9_013C_41D5_02C256D04D84_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -12613,7 +12613,7 @@
         hfov: 360,
         id: "panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_t.jpg",
+          "media/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -12622,11 +12622,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_t.jpg",
+              "media/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -12635,7 +12635,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -12644,7 +12644,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -12780,7 +12780,7 @@
         hfov: 360,
         id: "panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_t.jpg",
+          "media/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -12789,11 +12789,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_t.jpg",
+              "media/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -12802,7 +12802,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -12811,7 +12811,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -13858,7 +13858,7 @@
         hfov: 360,
         id: "panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_t.jpg",
+          "media/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -13867,11 +13867,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_t.jpg",
+              "media/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -13880,7 +13880,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -13889,7 +13889,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -14195,7 +14195,7 @@
         hfov: 360,
         id: "panorama_982ED389_87DB_011C_41CD_C37D80D00717",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982ED389_87DB_011C_41CD_C37D80D00717_t.jpg",
+          "media/panorama_982ED389_87DB_011C_41CD_C37D80D00717_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -14204,11 +14204,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982ED389_87DB_011C_41CD_C37D80D00717_t.jpg",
+              "media/panorama_982ED389_87DB_011C_41CD_C37D80D00717_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -14217,7 +14217,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -14226,7 +14226,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982ED389_87DB_011C_41CD_C37D80D00717_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -14557,7 +14557,7 @@
         hfov: 360,
         id: "panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_t.jpg",
+          "media/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -14566,11 +14566,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_t.jpg",
+              "media/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -14579,7 +14579,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -14588,7 +14588,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -14734,7 +14734,7 @@
         hfov: 360,
         id: "panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_t.jpg",
+          "media/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -14743,11 +14743,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_t.jpg",
+              "media/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -14756,7 +14756,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -14765,7 +14765,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -14909,7 +14909,7 @@
         hfov: 360,
         id: "panorama_982C159E_87D9_0137_41DA_02D931240DFB",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C159E_87D9_0137_41DA_02D931240DFB_t.jpg",
+          "media/panorama_982C159E_87D9_0137_41DA_02D931240DFB_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -14918,11 +14918,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C159E_87D9_0137_41DA_02D931240DFB_t.jpg",
+              "media/panorama_982C159E_87D9_0137_41DA_02D931240DFB_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -14931,7 +14931,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -14940,7 +14940,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C159E_87D9_0137_41DA_02D931240DFB_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -15036,7 +15036,7 @@
         hfov: 360,
         id: "panorama_982C6731_87D9_010C_41C5_35063A9C9BFA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_t.jpg",
+          "media/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -15045,11 +15045,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_t.jpg",
+              "media/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -15058,7 +15058,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -15067,7 +15067,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C6731_87D9_010C_41C5_35063A9C9BFA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -15130,7 +15130,7 @@
         hfov: 360,
         id: "panorama_982C2190_87D9_010C_41CB_543DBF4C3F21",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_t.jpg",
+          "media/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -15139,11 +15139,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_t.jpg",
+              "media/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -15152,7 +15152,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -15161,7 +15161,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C2190_87D9_010C_41CB_543DBF4C3F21_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -15443,7 +15443,7 @@
         hfov: 360,
         id: "panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_t.jpg",
+          "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -15452,11 +15452,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_t.jpg",
+              "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/0/{row}_{column}.jpg",
                   colCount: 36,
                   class: "TiledImageResourceLevel",
                   width: 18432,
@@ -15465,7 +15465,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -15474,7 +15474,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -15483,7 +15483,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -15735,7 +15735,7 @@
         hfov: 360,
         id: "panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_t.jpg",
+          "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_t.jpg",
         pitch: 0,
         class: "Panorama",
         cardboardMenu: "this.Menu_996EB67D_8AE1_76E2_41CC_23DB563C8EEB",
@@ -15743,11 +15743,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_t.jpg",
+              "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 42,
                   class: "TiledImageResourceLevel",
                   width: 21504,
@@ -15756,7 +15756,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -15765,7 +15765,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -15774,7 +15774,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16084,7 +16084,7 @@
         hfov: 360,
         id: "panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_t.jpg",
+          "media/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -16093,11 +16093,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_t.jpg",
+              "media/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -16106,7 +16106,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -16115,7 +16115,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/vr/0.jpg",
+                  url: "media/panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16142,7 +16142,7 @@
         hfov: 360,
         id: "panorama_982EA401_87DB_070D_41D1_8962605029D4",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_t.jpg",
+          "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -16151,11 +16151,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_t.jpg",
+              "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -16164,7 +16164,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16173,7 +16173,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -16182,7 +16182,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982EA401_87DB_070D_41D1_8962605029D4_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16355,7 +16355,7 @@
         hfov: 360,
         id: "panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_t.jpg",
+          "media/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -16364,11 +16364,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_t.jpg",
+              "media/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -16377,7 +16377,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -16386,7 +16386,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16568,7 +16568,7 @@
         hfov: 360,
         id: "panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_t.jpg",
+          "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_t.jpg",
         hfovMin: "120%",
         pitch: 0,
         class: "Panorama",
@@ -16577,11 +16577,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_t.jpg",
+              "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/0/{row}_{column}.jpg",
                   colCount: 30,
                   class: "TiledImageResourceLevel",
                   width: 15360,
@@ -16590,7 +16590,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/1/{row}_{column}.jpg",
                   colCount: 18,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16599,7 +16599,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/2/{row}_{column}.jpg",
+                  url: "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/2/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -16608,7 +16608,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -16783,7 +16783,7 @@
         hfov: 360,
         id: "panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_t.jpg",
+          "media/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -16792,11 +16792,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_t.jpg",
+              "media/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -16805,7 +16805,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -16814,7 +16814,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -17195,7 +17195,7 @@
         hfov: 360,
         id: "panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_t.jpg",
+          "media/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -17204,11 +17204,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_t.jpg",
+              "media/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -17217,7 +17217,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -17226,7 +17226,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/vr/0.jpg",
+                  url: "media/panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -17737,7 +17737,7 @@
         hfov: 360,
         id: "panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_t.jpg",
+          "media/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -17746,11 +17746,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_t.jpg",
+              "media/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -17759,7 +17759,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -17768,7 +17768,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
@@ -18142,7 +18142,7 @@
         hfov: 360,
         id: "panorama_982C1200_87D9_030C_41DC_E6F855B8B51E",
         thumbnailUrl:
-          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_t.jpg",
+          "media/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_t.jpg",
         hfovMin: "135%",
         pitch: 0,
         class: "Panorama",
@@ -18151,11 +18151,11 @@
         frames: [
           {
             thumbnailUrl:
-              "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_t.jpg",
+              "media/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_t.jpg",
             cube: {
               levels: [
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/0/{row}_{column}.jpg",
+                  url: "media/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/0/{row}_{column}.jpg",
                   colCount: 24,
                   class: "TiledImageResourceLevel",
                   width: 12288,
@@ -18164,7 +18164,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/1/{row}_{column}.jpg",
+                  url: "media/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/1/{row}_{column}.jpg",
                   colCount: 12,
                   class: "TiledImageResourceLevel",
                   width: 6144,
@@ -18173,7 +18173,7 @@
                   tags: "ondemand",
                 },
                 {
-                  url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/medias/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/vr/0.jpg",
+                  url: "media/panorama_982C1200_87D9_030C_41DC_E6F855B8B51E_0/{face}/vr/0.jpg",
                   colCount: 6,
                   class: "TiledImageResourceLevel",
                   width: 9216,
