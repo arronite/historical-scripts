@@ -462,8 +462,7 @@
         data: {
           label: "IMG_2986",
         },
-        thumbnailUrl:
-          "media/photo_A4D0643D_83EB_B28C_41D6_90B294096D71_t.jpg",
+        thumbnailUrl: "media/photo_A4D0643D_83EB_B28C_41D6_90B294096D71_t.jpg",
         width: 5718,
         image: {
           levels: [
@@ -8207,11 +8206,9 @@
         loop: false,
         autoplay: true,
         audio: {
-          oggUrl:
-            "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.ogg",
+          oggUrl: "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.ogg",
           class: "AudioResource",
-          mp3Url:
-            "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.mp3",
+          mp3Url: "media/audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58.mp3",
         },
         class: "MediaAudio",
         id: "audio_ACDAF819_8274_9294_41C0_1CC7B6C9DD58",
