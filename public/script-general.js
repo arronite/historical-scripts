@@ -18120,7 +18120,7 @@
             "getPanoramaOverlayByName": TDV.Tour.Script.getPanoramaOverlayByName,
             "quizStart": TDV.Tour.Script.quizStart,
             "shareSocial": TDV.Tour.Script.shareSocial,
-            "cloneCamera": TDV.Tour.Script.cloneCamera,
+   
             "updateDeepLink": TDV.Tour.Script.updateDeepLink,
             "historyGoBack": TDV.Tour.Script.historyGoBack,
             "getCurrentPlayerWithMedia": TDV.Tour.Script.getCurrentPlayerWithMedia,
