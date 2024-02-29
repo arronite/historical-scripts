@@ -1852,7 +1852,7 @@
         width: "14.656%",
         shadow: false,
         verticalAlign: "middle",
-        url: "skin/Image_1A0FE29C_3EC6_C6A3_41A2_BA576E9E57C7.png",
+        url: "https://raw.githubusercontent.com/arronite/medias-for-historical/main/skin/Image_1A0FE29C_3EC6_C6A3_41A2_BA576E9E57C7.png",
         top: "10.49%",
         paddingLeft: 0,
         borderSize: 0,
@@ -3138,7 +3138,7 @@
         class: "Button",
         fontStyle: "normal",
         pressedIconURL:
-          "skin/Button_4CC5476E_5ABB_CC4E_41D1_A04ABE17DA89_pressed.png",
+          "https://raw.githubusercontent.com/arronite/medias-for-historical/main/skin/Button_4CC5476E_5ABB_CC4E_41D1_A04ABE17DA89_pressed.png",
         backgroundOpacity: 1,
         data: {
           name: "Button Settings",
