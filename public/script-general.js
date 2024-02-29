@@ -19499,43 +19499,7 @@
             easing: "linear",
             yawDelta: 323,
             yawSpeed: 7.96,
-            class: "DistancePanoramaCameraMovement",(function () {
-  var a = {};
-  function trans(c, d) {
-    var e =
-      arguments["length"] === 0x1
-        ? [arguments[0x0]]
-        : Array["apply"](null, arguments);
-    a[e[0x0]] = e;
-    return "";
-  }
-  function regTextVar(c, d) {
-    var e = ![];
-    d = d["toLowerCase"]();
-    var f = function () {
-      var o = this["get"]("data");
-      o["updateText"](o["translateObjs"][c]);
-    };
-    var g = function (o) {
-      var p = o["data"]["nextSelectedIndex"];
-      if (p >= 0x0) {
-        var q = o["source"]["get"]("items")[p];
-        var r = function () {
-          q["unbind"]("start", r, this);
-          f["call"](this);
-        };
-        q["bind"]("start", r, this);
-      } else f["call"](this);
-    };
-    var h = function (o) {
-      return function (p) {
-        if (o in p) {
-          f["call"](this);
-        }
-      }["bind"](this);
-    };
-    var i = function (o, p) {
-
+            class: "DistancePanoramaCameraMovement",
           },
           {
             easing: "cubic_out",
